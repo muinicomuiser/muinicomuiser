@@ -19,6 +19,10 @@ Tengo una licenciatura en Artes plásticas, con especialidad en dibujo y pintura
 ![Static Badge](https://img.shields.io/badge/nestjs-darkslategrey?style=for-the-badge&logo=nestjs)
 ![Static Badge](https://img.shields.io/badge/node.js-darkslategrey?style=for-the-badge&logo=node.js)    
 
+![Static Badge](https://img.shields.io/badge/mysql-darkslategrey?style=for-the-badge&logo=mysql)
+![Static Badge](https://img.shields.io/badge/mongodb-darkslategrey?style=for-the-badge&logo=mongodb)
+
+
 ![Static Badge](https://img.shields.io/badge/docker-darkslategrey?style=for-the-badge&logo=docker)
 
 ![Static Badge](https://img.shields.io/badge/npm-darkslategrey?style=for-the-badge&logo=npm)
