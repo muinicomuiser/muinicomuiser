@@ -9,18 +9,18 @@ Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backe
 
 ## ✏️ Mis herramientas
 
-### _Lenguajes_
+### - _Lenguajes_
 ![Static Badge](https://img.shields.io/badge/typescript-252525?style=for-the-badge&logo=typescript) <!-- ts -->
 ![Static Badge](https://img.shields.io/badge/javascript-252525?style=for-the-badge&logo=javascript)<!-- js -->   
 
-### _Backend_
+### - _Backend_
 ![Static Badge](https://img.shields.io/badge/node.js-497922?style=for-the-badge&logo=node.js&logoColor=white)<!-- node --> 
 ![Static Badge](https://img.shields.io/badge/nestjs-b60000?style=for-the-badge&logo=nestjs&logoColor=white)<!-- nestjs -->
 ![Static Badge](https://img.shields.io/badge/mysql-1b6179?style=for-the-badge&logo=mysql&logoColor=white)<!-- mysql -->
 ![Static Badge](https://img.shields.io/badge/mongodb-1b792c?style=for-the-badge&logo=mongodb&logoColor=white)<!-- mongo -->
 ![Static Badge](https://img.shields.io/badge/docker-1b3679?style=for-the-badge&logo=docker&logoColor=white)<!-- docker -->
 
-### _Versionamiento y librerías_
+### - _Versionamiento y librerías_
 ![Static Badge](https://img.shields.io/badge/github-252525?style=for-the-badge&logo=github&logoColor=white)<!-- github -->
 ![Static Badge](https://img.shields.io/badge/npm-dcdcdc?style=for-the-badge&logo=npm&logoColor=black)<!-- npm -->
 
