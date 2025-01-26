@@ -1,11 +1,13 @@
 ## 🌱Hola! 
-Me llamo Nicolás Donoso, soy programador con enfoque en el desarrollo Backend. Mi interés principal es estar siempre aprendiendo habilidades nuevas y de distintas áreas del conocimiento. 
 
 <p align="center">
 <a href="https://www.instagram.com/nicosodonoso/"><img src="./img/P07.png" width=400 alt="mui.js" /></a>
 </p>
+<p align="center">
+Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backend y mi principal interés principal es estar siempre aprendiendo habilidades nuevas y de distintas áreas del conocimiento. 
+</p>
 
-## ✏️Herramientas
+## ✏️Mis herramientas
 
 ### _Lenguajes_
 ![Static Badge](https://img.shields.io/badge/typescript-252525?style=for-the-badge&logo=typescript) <!-- ts -->
