@@ -1,33 +1,45 @@
-## Hola!
+## 🌱Hola! 
 Me llamo Nicolás Donoso, soy programador con enfoque en el desarrollo Backend. Mi interés principal es estar siempre aprendiendo habilidades nuevas y de distintas áreas del conocimiento. 
-Tengo una licenciatura en Artes plásticas, con especialidad en dibujo y pintura al óleo. También tengo estudios de matemáticas, piano y teoría musical. Me he dedicado a enseñar estas disciplinas y a tomarlas como recurso para aprender y crear usando la programación.
 
 <p align="center">
-<a href="https://www.instagram.com/nicosodonoso/"><img src="./img/P07.png" width=450 alt="mui.js" /></a>
-
-  <!-- <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a> -->
+<a href="https://www.instagram.com/nicosodonoso/"><img src="./img/P07.png" width=400 alt="mui.js" /></a>
 </p>
 
-## Redes
+## ✏️Herramientas
 
-[![Static Badge](https://img.shields.io/badge/instagram-darkslategrey?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto)](https://www.instagram.com/niconicodonoso) 
-[![Static Badge](https://img.shields.io/badge/linkedin-darkslategrey?style=for-the-badge)](https://www.linkedin.com/in/nicolás-donoso-b03667184/) [![Static Badge](https://img.shields.io/badge/correo-darkslategrey?style=for-the-badge)](mailto:nicodoneg@gmail.com)
+### _Lenguajes_
+![Static Badge](https://img.shields.io/badge/typescript-252525?style=for-the-badge&logo=typescript) <!-- ts -->
+![Static Badge](https://img.shields.io/badge/javascript-252525?style=for-the-badge&logo=javascript)<!-- js -->   
 
-## Herramientas
-![Static Badge](https://img.shields.io/badge/typescript-darkslategrey?style=for-the-badge&logo=typescript)
-![Static Badge](https://img.shields.io/badge/javascript-darkslategrey?style=for-the-badge&logo=javascript)    
+### _Backend_
+![Static Badge](https://img.shields.io/badge/node.js-497922?style=for-the-badge&logo=node.js&logoColor=white)<!-- node --> 
+![Static Badge](https://img.shields.io/badge/nestjs-b60000?style=for-the-badge&logo=nestjs&logoColor=white)<!-- nestjs -->
+![Static Badge](https://img.shields.io/badge/mysql-1b6179?style=for-the-badge&logo=mysql&logoColor=white)<!-- mysql -->
+![Static Badge](https://img.shields.io/badge/mongodb-1b792c?style=for-the-badge&logo=mongodb&logoColor=white)<!-- mongo -->
+![Static Badge](https://img.shields.io/badge/docker-1b3679?style=for-the-badge&logo=docker&logoColor=white)<!-- docker -->
 
-![Static Badge](https://img.shields.io/badge/nestjs-darkslategrey?style=for-the-badge&logo=nestjs)
-![Static Badge](https://img.shields.io/badge/node.js-darkslategrey?style=for-the-badge&logo=node.js)    
+### _Versionamiento y paquetes_
+![Static Badge](https://img.shields.io/badge/github-252525?style=for-the-badge&logo=github&logoColor=white)<!-- github -->
+![Static Badge](https://img.shields.io/badge/npm-dcdcdc?style=for-the-badge&logo=npm&logoColor=black)<!-- npm -->
 
-![Static Badge](https://img.shields.io/badge/mysql-darkslategrey?style=for-the-badge&logo=mysql)
-![Static Badge](https://img.shields.io/badge/mongodb-darkslategrey?style=for-the-badge&logo=mongodb)
+## 📚 Estoy aprendiendo
+![Static Badge](https://img.shields.io/badge/python-252525?style=for-the-badge&logo=python)<!-- python -->
+![Static Badge](https://img.shields.io/badge/angular-firebrick?style=for-the-badge&logo=angular&logoColor=white)<!-- angular -->
 
+## 🔹Mis proyectos actuales
 
-![Static Badge](https://img.shields.io/badge/docker-darkslategrey?style=for-the-badge&logo=docker)
-
-![Static Badge](https://img.shields.io/badge/npm-darkslategrey?style=for-the-badge&logo=npm)
-![Static Badge](https://img.shields.io/badge/github-darkslategrey?style=for-the-badge&logo=github)
+#### 🎐 MUIJS-CUERPOS
+[![Static Badge](https://img.shields.io/badge/muijs--cuerpos-239496?style=for-the-badge)](http://54.160.132.98)   
+![NPM Version](https://img.shields.io/npm/v/muijs-cuerpos?style=flat-square)
+[![Static Badge](https://img.shields.io/badge/repositorio-252525?style=flat-square&logo=github&logoColor=white)](https://github.com/muinicomuiser/muijs-cuerpos#readme)
+[![Static Badge](https://img.shields.io/badge/npm-252525?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/muijs-cuerpos)
+#### ☘️ PLANTAI-BACKEND
+[![Static Badge](https://img.shields.io/badge/plantai-003363?style=for-the-badge)](http://52.15.197.28)   
+[![Static Badge](https://img.shields.io/badge/repositorio-252525?style=flat-square&logo=github&logoColor=white)](https://github.com/Cotiledon-TI/PlantAI-Backend#readme)
+## 💬Contacto
+[![Static Badge](https://img.shields.io/badge/correo-beige?style=for-the-badge&logo=gmail&logoColor=darkred)](mailto:nicodoneg@gmail.com)
+[![Static Badge](https://img.shields.io/badge/linkedin-2187ad?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolás-donoso-b03667184/) 
+[![Static Badge](https://img.shields.io/badge/instagram-c03636?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto)](https://www.instagram.com/niconicodonoso) 
 
 
 
