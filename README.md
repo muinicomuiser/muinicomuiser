@@ -20,7 +20,7 @@ Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backe
 ![Static Badge](https://img.shields.io/badge/mongodb-1b792c?style=for-the-badge&logo=mongodb&logoColor=white)<!-- mongo -->
 ![Static Badge](https://img.shields.io/badge/docker-1b3679?style=for-the-badge&logo=docker&logoColor=white)<!-- docker -->
 
-### _Versionamiento y paquetes_
+### _Versionamiento y librerías_
 ![Static Badge](https://img.shields.io/badge/github-252525?style=for-the-badge&logo=github&logoColor=white)<!-- github -->
 ![Static Badge](https://img.shields.io/badge/npm-dcdcdc?style=for-the-badge&logo=npm&logoColor=black)<!-- npm -->
 
