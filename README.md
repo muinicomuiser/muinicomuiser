@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/nicosodonoso/"><img src="./img/P07.png" width=400 alt="mui.js" /></a>
 </p>
 <p align="center">
-Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backend y mi principal interés principal es estar siempre aprendiendo habilidades nuevas y de distintas áreas del conocimiento. 
+Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backend. Me interesa estar siempre aprendiendo habilidades nuevas y de distintas áreas del conocimiento. 
 </p>
 
 ## ✏️ Mis herramientas
