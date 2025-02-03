@@ -27,6 +27,7 @@ Me llamo Nicolás Donoso. <br>Soy programador con enfoque en el desarrollo Backe
 ## 📚 Estoy aprendiendo
 ![Static Badge](https://img.shields.io/badge/python-252525?style=for-the-badge&logo=python)<!-- python -->
 ![Static Badge](https://img.shields.io/badge/angular-firebrick?style=for-the-badge&logo=angular&logoColor=white)<!-- angular -->
+![Static Badge](https://img.shields.io/badge/express-2187ad?style=for-the-badge&logo=express&logoColor=white)<!-- express -->
 
 ## 🔹 Mis proyectos actuales
 
